@@ -8,5 +8,8 @@
     "serve": "serve ."
   },
   "author": "Ana Júlia Benedito Vançan",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^14.1.2"
+  }
 }
