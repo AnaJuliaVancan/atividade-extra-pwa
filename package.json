@@ -1,0 +1,12 @@
+{
+  "name": "atividade-extra-pwa",
+  "version": "1.0.0",
+  "description": "Atividade localização pwa com cidade.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "serve ."
+  },
+  "author": "Ana Júlia Benedito Vançan",
+  "license": "ISC"
+}
